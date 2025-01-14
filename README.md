@@ -22,5 +22,4 @@ Image/Video Captioning
 
 <br/><br/>
 
-![soeun's github stats](https://github-readme-stats.vercel.app/api?username=soeuni&show_icons=true&theme=solarized-light)
-</div>
+
