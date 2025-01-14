@@ -10,9 +10,9 @@
 <br/>
   
 #### Study
-Computer Vision\
-Deep Learning\
-Image Processing
+Multimodal-Learning\
+Zero-shot Learning\
+Image/Video Captioning
 <br/>
 <br/>
   
